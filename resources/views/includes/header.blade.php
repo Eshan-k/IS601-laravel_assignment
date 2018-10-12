@@ -4,7 +4,7 @@
 <header>
 	<nav class="navbar navbar-expand-sm navbar-dark bg-danger fixed-top">
 		<div class="container">
-			<a class="navbar-brand" href="#">IS 601 Laravel Assignment</a>
+			<a class="navbar-brand" href="#">Laravel Assignment</a>
 			
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav mr-auto">
